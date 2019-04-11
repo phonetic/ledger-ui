@@ -1,0 +1,9 @@
+admin.env
+.env
+.env.development
+_meta
+.serverless
+node_modules
+dist
+logs
+.DS_Store
